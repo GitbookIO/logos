@@ -1,4 +1,4 @@
-gitbook-logos
+GitBook Logos
 =============
 
 Logos and design stuff related to GitBook. PRs are welcome!
