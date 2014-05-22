@@ -1,7 +1,7 @@
 gitbook-logos
 =============
 
-Logos and design stuff related to GitBook
+Logos and design stuff related to GitBook. PRs are welcome!
 
 
 # [PNG](https://raw.github.com/GitbookIO/gitbook-logos/master/gitbook.png)
