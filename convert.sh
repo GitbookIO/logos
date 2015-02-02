@@ -6,6 +6,6 @@ if ! foobar_loc="$(type -p "svgexport")" || [ -z "$foobar_loc" ]; then
   exit 1
 fi
 
-svgexport ./gitbook.svg ./gitbook.png
-svgexport ./published-with-gitbook.svg ./published-with-gitbook.png
-svgexport ./gitbook-white.svg ./gitbook-white.png
+svgexport ./src/gitbook.svg ./pngs/gitbook.png
+svgexport ./src/published-with-gitbook.svg ./pngs/published-with-gitbook.png
+svgexport ./src/gitbook-white.svg ./pngs/gitbook-white.png
