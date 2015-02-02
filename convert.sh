@@ -35,3 +35,6 @@ svgexport ./src/published-with-gitbook.svg ./pngs/published-with-gitbook.png
 
 # Favicon
 convert ./pngs/32.png ./pngs/favicon.ico
+
+# Optimize PNGs (by a lot ...)
+find ./pngs/ -name "*.png" | xargs -P 4 -I{} convert {} {}
