@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="gitbook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2560px" height="512px" viewBox="0 0 2560 512" style="enable-background:new 0 0 2560 512;" xml:space="preserve">
+	<defs>
+		<style type="text/css">
+			@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,600,200);
+		</style>
+	</defs>
+	<image x="110" y="0" width="512" height="512" xlink:href="./gitbook.svg" />
+	<g id="text">
+		<text x="660" y="410" style="fill:#4E4E4E; font-family:'Raleway'; font-size:480px;font-weight: bold;">GitBook</text>
+	</g>
+</svg>
