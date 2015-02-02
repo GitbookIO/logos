@@ -3,14 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="gitbook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<g id="book" style="display:none;">
-	<path style="display:inline;fill:#FF1010;" d="M0,30.735c0,0,176.293-6.951,255.5,65.402c0,0,61.5-66.613,255.5-65.421v386.069
-		c0,0-180.596-1.675-255.124,64.649c0,0-48.876-59.624-255.876-64.649V30.735z"/>
-</g>
-<g id="pages" style="display:none;">
-	<path style="display:inline;fill:#1F40FF;" d="M63,97c0,0,115,7,161,42v255c0,0-86-40-161-39V97z"/>
-	<path style="display:inline;fill:#1F40FF;" d="M448,97c0,0-115,7-161,42v255c0,0,87-40,161-39V97z"/>
-</g>
 <g id="Book_pages">
 	<path style="fill:#4E4E4E;" d="M256,94.824C176.638,22.33,0,29.294,0,29.294v386.805c207.405,5.034,256.377,64.775,256.377,64.775
 		C331.05,414.421,512,416.099,512,416.099V29.275C317.62,28.081,256,94.824,256,94.824z M225,392.268c0,0-86-40.078-161-39.076
