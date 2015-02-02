@@ -33,4 +33,5 @@ svgexport ./src/facebook-tile.svg ./pngs/tile-facebook.png 1200x630
 ## Book cover
 svgexport ./src/published-with-gitbook.svg ./pngs/published-with-gitbook.png
 
-
+# Favicon
+convert ./pngs/32.png ./pngs/favicon.ico
