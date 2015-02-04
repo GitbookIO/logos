@@ -11,6 +11,11 @@ rm -rf ./pngs/*
 ## Logos with text
 svgexport ./src/gitbook-text.svg ./pngs/512-text.png 512:102
 
+## Google Apps
+svgexport ./src/gitbook-text.svg ./pngs/320-text-tmp.png 320:
+convert ./pngs/320-text-tmp.png -gravity center -background transparent -extent 320x132 ./pngs/320-text.png
+rm ./pngs/320-text-tmp.png
+
 ## Logos
 svgexport ./src/gitbook-white.svg ./pngs/512wt.png
 
